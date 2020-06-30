@@ -1,5 +1,0 @@
-export const INCREASE_COUNTER = "INCREASE_COUNTER";
-export const RESET_COUNTER = "RESET_COUNTER";
-export const RESET_ALL = "RESET_ALL";
-export const DELETE_COUNTER = "DELETE_COUNTER";
-export const ADD_COUNTER = "ADD_COUNTER";
